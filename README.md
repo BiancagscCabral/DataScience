@@ -14,4 +14,5 @@ Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** feito em *
 
 - [Python 3.x](https://www.python.org/)
 
+# ATIVIDADE 02: 📒 Centralidade e Dispersão em python (feita em grupo)
 
