@@ -1,4 +1,4 @@
-# 📒 CRUD de Agenda em Python
+# ATIVIDADE 01: 📒 CRUD de Agenda em Python
 
 Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** feito em **Python**
 
